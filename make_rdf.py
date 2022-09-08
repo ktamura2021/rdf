@@ -10,8 +10,8 @@ fp.write('@prefix rh: <http://rdf.rhea-db.org/> .\n')
 fp.write('@prefix CHEBI: <http://purl.obolibrary.org/obo/CHEBI_> .\n')
 fp.write('@prefix : <https://raw.githubusercontent.com/ktamura2021/rdf/main/ontology.ttl#> .\n')
 # 自分の述語を定義しておかないといけない ":" ひとまず自分の管理下の場所を指定する file名に#を突っ込む
-# purl.orgに登録して、自分の述語を置くところを指定して、そこから自分のgithubのオントロジーファイル(自分で使ったtermを規定していく)
-# togoidのリポジトリが参考になる
+# purl.org(https://purl.archive.org)に登録して、自分の述語を置くところを指定して、そこから自分のgithubのオントロジーファイル(自分で使ったtermを規定していく)
+# togoidのリポジトリが参考になる(https://github.com/togoid/togoid-config/blob/main/ontology/togoid-ontology.html)
 
 
 num = 0
