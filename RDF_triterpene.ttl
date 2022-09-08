@@ -1,0 +1,93 @@
+@prefix uniprot: <http://purl.uniprot.org/uniprot/> .
+@prefix pubmed: <https://identifiers.org/> .
+@prefix rh: <http://rdf.rhea-db.org/> .
+@prefix CHEBI: <http://purl.obolibrary.org/obo/CHEBI_> .
+@prefix : <https://raw.githubusercontent.com/ktamura2021/rdf/main/ontology.ttl#> .
+
+[]
+    :uniprot uniprot:Q9XHC6 ;
+    :citation pubmed:16478469 ;
+    :commonname "CYP93E1" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:Q2MJ11 ;
+    :citation pubmed:23378447 ;
+    :commonname "CYP93E2" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:B5BT05 ;
+    :citation pubmed:18779566 ;
+    :commonname "CYP93E3" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:A0A088LHH3 ;
+    :citation pubmed:25453910 ;
+    :commonname "CYP93E4" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:A0A088LUP1 ;
+    :citation pubmed:25453910 ;
+    :commonname "CYP93E5" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:A0A088LIS6 ;
+    :citation pubmed:25453910 ;
+    :commonname "CYP93E6" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:A0A088LHV2 ;
+    :citation pubmed:25453910 ;
+    :commonname "CYP93E7" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:A0A088LM09 ;
+    :citation pubmed:25453910 ;
+    :commonname "CYP93E8" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:A0A088LHH7 ;
+    :citation pubmed:25453910 ;
+    :commonname "CYP93E9" ;
+    :rhea rh:30991 ;
+    :substrate CHEBI:10352 ;
+    :product CHEBI:62459 .
+
+[]
+    :uniprot uniprot:Q9XHC6 ;
+    :citation pubmed:16478469 ;
+    :commonname "CYP93E1" ;
+    :rhea rh:30995 ;
+    :substrate CHEBI:62458 ;
+    :product CHEBI:9209 .
+
+[]
+    :uniprot uniprot:H1A980 ;
+    :citation pubmed:22128119 ;
+    :commonname "CYP72A61v2" ;
+    :rhea rh: ;
+    :substrate CHEBI:62459 ;
+    :product CHEBI:9209 .
